@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi, I'm Jonathan  👋
+I'm a builder at heart, driven by curiosity and the love of providing the world with something new .
+I'm also a Full-Stack Software Developer specializing in AI integrations, machine learning, and web/system development. Passionate about solving complex problems and staying at the cutting edge of technology, I strive to create impactful solutions through innovative software design.
 
-<!--
-**jonathan-githubofficial/jonathan-githubofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Skills
+- **Programming Languages**: Java, Python, C#, C++, Kotlin, Flutter, CSS, HTML, JavaScript, TypeScript
+- **Frameworks & Libraries**: Next.js, Django, Flask, ASP.NET, MERN, React, Angular
+- **Databases**: SQL (MSSQL, PostgreSQL, MySQL), MongoDB, SQLite, Neo4j, DynamoDB
+- **Machine Learning**: PyTorch, CNN, RNN, Linear Regression, Random Forest, XGBoost
+- **Others**: Docker, AI Integrations (LangChain), Cloud Computing
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Reach Out!
+Feel free to connect with me for any inquiries or collaborations. You can reach me at:
+- 📧 Email: [jonathanhaddadofficial@gmail.com](mailto:jonathanhaddadofficial@gmail.com)
