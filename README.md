@@ -5,7 +5,7 @@ I'm also a Full-Stack Software Developer specializing in AI integrations, machin
 ## 💻 Skills
 - **Programming Languages**: Java, Python, C#, C++, Kotlin, Flutter, JavaScript, TypeScript
 - **Frameworks & Libraries**: Next.js, Django, Flask, ASP.NET, MERN, React, Angular
-- **Databases**: SQL, MongoDB, SQLite, Neo4j, DynamoDB
+- **Databases**: SQL, MongoDB, SQLite, DynamoDB
 - **Machine Learning**: PyTorch, CNN, RNN, Linear Regression, Random Forest, XGBoost
 - **Others**: Docker, AI Integrations (LangChain), Cloud Computing
 
