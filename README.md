@@ -1,6 +1,12 @@
+
+<div align="center">
+    <img src="https://github.com/jonathan-githubofficial/jonathan-githubofficial/assets/106629548/662c9588-fd77-4c8d-b2aa-f0f03a113e3a" alt="intro">
+</div>
+
+
 # 👋 Hi, I'm Jonathan
 
-As a Full-Stack Software Engineer , my approach is centered on practical problem-solving and staying updated with the latest technological advancements. With a strong background in machine learning and web/system development, I am committed to developing efficient and effective software solutions that address real-world challenges.
+As a Full-Stack Software Engineer, my approach is centered on practical problem-solving and staying updated with the latest technological advancements. With a strong background in machine learning and web/system development, I am committed to developing efficient and effective software solutions that address real-world challenges.
 
 ## 💻 Skills
 
