@@ -4,7 +4,7 @@ As a Full-Stack Software Engineer , my approach is centered on practical problem
 
 ## 💻 Skills
 
-##### Programming Languages:
+**Programming Languages** :
 [![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)](https://www.java.com/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=.net&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
@@ -14,7 +14,7 @@ As a Full-Stack Software Engineer , my approach is centered on practical problem
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://www.javascript.com/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
-##### Frameworks & Libraries:
+**Frameworks & Libraries** :
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 [![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)](https://www.djangoproject.com/)
 [![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)](https://palletsprojects.com/p/flask/)
@@ -24,7 +24,13 @@ As a Full-Stack Software Engineer , my approach is centered on practical problem
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)](https://angular.io/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 
-##### Databases:
+**Testing Frameworks** :
+[![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)](https://www.cypress.io/)
+[![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=flat&logo=mocha&logoColor=white)](https://mochajs.org/)
+[![Karma](https://img.shields.io/badge/Karma-DC143C?style=flat&logo=karma&logoColor=white)](https://karma-runner.github.io/)
+[![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)](https://jestjs.io/)
+
+**Databases** :
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white)](https://neo4j.com/)
@@ -32,7 +38,7 @@ As a Full-Stack Software Engineer , my approach is centered on practical problem
 [![Pinecone](https://img.shields.io/badge/Pinecone-5E5C5C?style=flat&logo=pinecone&logoColor=white)](https://www.pinecone.io/)
 [![Chroma](https://img.shields.io/badge/Chroma-FF4500?style=flat&logo=chromadb&logoColor=white)](https://www.chromadb.com/)
 
-##### Machine Learning Technologies:
+**Machine Learning Tech** :
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 [![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)](https://keras.io/)
@@ -41,15 +47,7 @@ As a Full-Stack Software Engineer , my approach is centered on practical problem
 [![LangChain](https://img.shields.io/badge/LangChain-FA7343?style=flat&logo=ai&logoColor=white)](https://langchain.dev/)
 [![OpenAI GPT](https://img.shields.io/badge/OpenAI%20GPT-412991?style=flat&logo=openai&logoColor=white)](https://openai.com/gpt-3/)
 
-
-##### Testing Frameworks:
-[![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)](https://www.cypress.io/)
-[![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=flat&logo=mocha&logoColor=white)](https://mochajs.org/)
-[![Karma](https://img.shields.io/badge/Karma-DC143C?style=flat&logo=karma&logoColor=white)](https://karma-runner.github.io/)
-[![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)](https://jestjs.io/)
-
-
-##### Other :
+**Other** :
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)](https://www.figma.com/)
 [![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat&logo=zapier&logoColor=white)](https://zapier.com/)
