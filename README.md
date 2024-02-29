@@ -1,8 +1,4 @@
 
-<div align="center">
-    <img src="https://github.com/jonathan-githubofficial/jonathan-githubofficial/assets/106629548/662c9588-fd77-4c8d-b2aa-f0f03a113e3a" alt="intro">
-</div>
-
 
 # 👋 Hi, I'm Jonathan
 
@@ -63,10 +59,7 @@ As a Full-Stack Software Engineer, my approach is centered on practical problem-
 <br/>
 
 
-## 📫 Connect with Me!
-
-For any inquiries or collaboration opportunities, feel free to reach out. 
-
+## ☕ Get in Touch
 [![Email Badge](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:jonathanhaddadofficial@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/JonathanHaddad)](https://www.linkedin.com/in/jonathan-h-217299250/)
 [![GitHub Badge](https://img.shields.io/badge/Jonathan%20H.-brightgreen?style=social&logo=github)](https://github.com/jonathan-githubofficial)
