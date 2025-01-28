@@ -43,24 +43,20 @@ As a Full-Stack Software Engineer, my approach is centered on practical problem-
 **Machine Learning Tech** :
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
-[![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)](https://keras.io/)
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-F9AB00?style=flat&logo=huggingface&logoColor=white)](https://huggingface.co/)
 [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![LangChain](https://img.shields.io/badge/LangChain-FA7343?style=flat&logo=ai&logoColor=white)](https://langchain.dev/)
-[![OpenAI GPT](https://img.shields.io/badge/OpenAI%20GPT-412991?style=flat&logo=openai&logoColor=white)](https://openai.com/gpt-3/)
 
-**Other** :
+**Tools** :
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)](https://www.figma.com/)
-[![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat&logo=zapier&logoColor=white)](https://zapier.com/)
-[![Make](https://img.shields.io/badge/Make-1F8ACB?style=flat&logo=make&logoColor=white)](https://www.make.com/)
-[![n8n](https://img.shields.io/badge/n8n-00C7B7?style=flat&logo=n8n&logoColor=white)](https://n8n.io/)
+[![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=flat&logo=adobe&logoColor=white)](https://www.adobe.com/)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
 
 <br/>
 
 
 ## ☕ Get in Touch
 [![Email Badge](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:jonathanhaddadofficial@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/JonathanHaddad)](https://www.linkedin.com/in/jonathan-h-217299250/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/JonathanHaddad)](https://www.linkedin.com/in/jonhad/)
 [![GitHub Badge](https://img.shields.io/badge/Jonathan%20H.-brightgreen?style=social&logo=github)](https://github.com/jonathan-githubofficial)
 
