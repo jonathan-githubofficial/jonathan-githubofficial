@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Jonathan
 
-As a Full-Stack Software Engineer, my approach is centered on practical problem-solving and staying updated with the latest technological advancements. With a strong background in machine learning and web/system development, I am committed to developing efficient and effective software solutions that address real-world challenges.
+Full-stack engineer with a focus on AI-integrated systems and high-throughput applications. Built platforms automating in operational costs and serving 1M+ monthly requests. Advocate for test-driven development and infrastructure-as-code.
 
 ## 💻 Skills
 
